@@ -69,12 +69,6 @@ Websites, applications and software solutions built around specific business nee
 
 ---
 
-## GitHub
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carole777&show_icons=true&theme=dark&hide_border=true&title_color=FFD400&icon_color=FFD400" height="165" alt="GitHub Stats" /> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=Carole777&theme=dark&hide_border=true&ring=FFD400&fire=FFD400&currStreakLabel=FFD400" height="165" alt="GitHub Streak" /> </a> </p>
-
----
-
 <p align="center">
   <a href="https://carole.com.mx">carole.com.mx</a>
   ·
