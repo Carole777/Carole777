@@ -61,11 +61,15 @@ Serverless API for retrieving live streaming status from Twitch and YouTube.
 
 **AWS Lambda · TypeScript · REST API**
 
+[View Live](https://carole.com.mx/live)
+
 ### Custom Web Solutions
 
 Websites, applications and software solutions built around specific business needs.
 
 **Next.js · React · TypeScript · Node.js**
+
+[Start a Project](https://carole.com.mx/contacto)
 
 ---
 
