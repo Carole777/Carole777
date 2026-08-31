@@ -6,10 +6,11 @@ I build modern web applications, custom software solutions and digital experienc
 
 <p align="center">
   <a href="https://carole.com.mx">
-    <img src="https://img.shields.io/badge/Portfolio-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/googlechrome/FFD400" width="32" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD400?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlosp21/">
+    <img src="https://cdn.simpleicons.org/linkedin/FFD400" width="32" alt="LinkedIn" />
   </a>
 </p>
 
@@ -79,11 +80,11 @@ I also work on custom websites, business platforms and software solutions tailor
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=FFD400&icon_color=FFD400"
+    src="https://github-readme-stats.vercel.app/api?username=Carole777&show_icons=true&theme=dark&hide_border=true&title_color=FFD400&icon_color=FFD400"
     alt="GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=FFD400&fire=FFD400&currStreakLabel=FFD400"
+    src="https://streak-stats.demolab.com?user=Carole777&theme=dark&hide_border=true&ring=FFD400&fire=FFD400&currStreakLabel=FFD400"
     alt="GitHub Streak"
   />
 </p>
