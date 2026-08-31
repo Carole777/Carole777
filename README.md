@@ -31,10 +31,16 @@ I enjoy turning ideas into functional, polished products — from business websi
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Frontend" />
 </p>
 
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Frontend" />
+</p>
+
 **Backend & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,aws,supabase,vercel" alt="Backend and Cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,aws,supabase,vercel" alt="Backend and Cloud" />
 </p>
 
 **Tools**
@@ -42,7 +48,6 @@ I enjoy turning ideas into functional, polished products — from business websi
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 </p>
-
 ---
 
 ## Featured Projects
