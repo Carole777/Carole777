@@ -1,112 +1,93 @@
-# 👋 Hi, I'm Carole
+# Carole
 
-### Software Engineer · Full-Stack Developer · Mexico 🇲🇽
+### Software Engineer · Full-Stack Developer
 
-I build modern web applications, custom software solutions and digital experiences focused on performance, usability and clean design.
+I build modern web applications and custom software solutions with a focus on clean design, usability and performance.
 
 <p align="center">
   <a href="https://carole.com.mx">
-    <img src="https://cdn.simpleicons.org/googlechrome/FFD400" width="32" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carlosp21/">
-    <img src="https://cdn.simpleicons.org/linkedin/FFD400" width="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFD400?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Software Engineer focused on building full-stack web applications and custom digital solutions.
+Software Engineer focused on building full-stack web applications, APIs and digital experiences.
 
-I enjoy turning ideas into polished, functional products — from business websites and web applications to API integrations and cloud-based services.
-
-Currently, I'm focused on building projects, improving my portfolio and exploring new technologies across the web ecosystem.
+I enjoy turning ideas into functional, polished products — from business websites to custom software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Frontend" />
 </p>
 
-### Backend & APIs
+**Backend & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,aws,supabase,vercel" alt="Backend and Cloud" />
 </p>
 
-### Cloud & Tools
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,supabase,vercel,git,github" alt="Cloud and tools" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⚡ Power Studio GDL
+### Power Studio GDL
 
-A modern website for a fitness & dance studio in Guadalajara, designed to showcase classes, promotions and services while providing a polished user experience.
+Website for a fitness & dance studio in Guadalajara.
 
 **Next.js · TypeScript · Tailwind CSS · Supabase · PostHog**
 
-[🌐 Visit website](https://powerstudiogdl.com)
+[View Project](https://powerstudiogdl.com)
 
----
+### Live Streaming Status API
 
-### 📡 Live Streaming Status API
-
-A serverless API designed to retrieve and expose live streaming status from platforms such as Twitch and YouTube.
+Serverless API for retrieving live streaming status from Twitch and YouTube.
 
 **AWS Lambda · TypeScript · REST API**
 
----
+### Custom Web Solutions
 
-### 💼 Custom Web Solutions
+Websites, applications and software solutions built around specific business needs.
 
-I also work on custom websites, business platforms and software solutions tailored to specific project requirements.
-
-**Next.js · React · TypeScript · Node.js · APIs**
+**Next.js · React · TypeScript · Node.js**
 
 ---
 
-## 📊 GitHub Activity
+## GitHub
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Carole777&show_icons=true&theme=dark&hide_border=true&title_color=FFD400&icon_color=FFD400"
+    height="165"
     alt="GitHub Stats"
   />
   <img
     src="https://streak-stats.demolab.com?user=Carole777&theme=dark&hide_border=true&ring=FFD400&fire=FFD400&currStreakLabel=FFD400"
+    height="165"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
-## 🎮 Beyond Code
-
-When I'm not building software, I'm usually working on streaming, video editing, exploring new tech or experimenting with new ideas.
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in interesting projects, collaborations and new opportunities.
-
 <p align="center">
-  <a href="https://carole.com.mx">
-    <img src="https://img.shields.io/badge/Portfolio-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Built with ❤️ and a lot of ☕</sub>
+  <a href="https://carole.com.mx">carole.com.mx</a>
+  ·
+  <a href="https://www.linkedin.com/in/carlosp21/">LinkedIn</a>
 </p>
